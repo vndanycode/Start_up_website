@@ -503,7 +503,7 @@ hr {
     flex-direction: column;
     align-items: center;
 
-    background: url("../start_up/img/bg-our__work.jpg") center no-repeat;
+    background: url("./img/bg-our__work.jpg") center no-repeat;
     width: 100%;
     height: 100%;
 }
@@ -526,7 +526,7 @@ hr {
 .blog__img {
     margin-top: 20px;
 
-    background: url("../start_up/img/blog/photo-1.jpg") center no-repeat;
+    background: url("./img/blog/photo-1.jpg") center no-repeat;
     width: 460px;
     height: 332px;
 
@@ -538,7 +538,7 @@ hr {
 .blog__img__second {
     margin-top: 20px;
 
-    background: url("../start_up/img/blog/photo-2.jpg") center no-repeat;
+    background: url("./img/blog/photo-2.jpg") center no-repeat;
     width: 460px;
     height: 332px;
 
